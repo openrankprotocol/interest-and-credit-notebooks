@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/interest-and-credit-notebooks.iml" filepath="$PROJECT_DIR$/.idea/interest-and-credit-notebooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/openrank-notebooks.iml" filepath="$PROJECT_DIR$/.idea/openrank-notebooks.iml" />
     </modules>
   </component>
 </project>
